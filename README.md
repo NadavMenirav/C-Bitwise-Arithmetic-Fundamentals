@@ -36,7 +36,7 @@ This project requires a standard C compiler (like GCC).
 
 1.  **Compile:**
     ```bash
-    gcc -o ex_1 main.c
+    gcc -o ex_1 ex_1.c
     ```
 2.  **Execute:**
     ```bash
