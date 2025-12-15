@@ -1,7 +1,6 @@
 /**********************
  * Nadav Menirav
- * 330845678
- * ex_1 
+ * ex_1
  **********************/
 
 #include <stdio.h>
@@ -89,4 +88,5 @@ int main() {
 
 	printf("\nCongrats! You've found the philosopher's stone!");
 	return 0;
+
 }
